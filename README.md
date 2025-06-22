@@ -1,0 +1,3 @@
+# Static-Analysis-of-Mach-O-Binary-Files
+This project was developed in parallel with my dissertation thesis, which was submitted in June 2025. It represents the first implementation of the ideas, experiments and analyses detailed in that document.
+Please note that this repository is neither complete nor perfect. Many features are still under development. I plan to continuously refine, expand and document the codebase in future revisions.
